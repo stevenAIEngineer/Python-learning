@@ -1,0 +1,5 @@
+print(10 <= 10)
+print(0 == 1)
+print(18 > 5)
+print('Jamila'.endswith('s'))
+print('Jamila'.endswith('a'))
