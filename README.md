@@ -1,3 +1,3 @@
 # Python-learning
 
-Learn python with **Steven Lansangan*
+Learn python with *Steven Lansangan*
